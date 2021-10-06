@@ -1,0 +1,41 @@
+ * {
+     background-color: black;
+     text-align: center;
+     font-family: Verdana;
+ }
+
+ h1 {
+     color: white;
+     font-size: 50px;
+     font-weight: normal;
+ }
+
+ h2 {
+     color: white;
+     font-size: 42px;
+     font-weight: 300;
+
+ }
+
+ a {
+     color: aquamarine;
+     text-decoration: underline;
+     font-size: 16px;
+ }
+
+ h3 {
+    color: gray;
+    font-size: 21px;
+ }
+
+ .guide-image {
+     padding-bottom: 50px;
+ }
+
+ .footer-content {
+     text-align: right;
+ }
+
+ .header-video {
+     transition: 0.5s;
+ }
