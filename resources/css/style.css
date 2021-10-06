@@ -16,6 +16,7 @@
      font-weight: 300;
 
  }
+ 
 
  a {
      color: aquamarine;
@@ -28,9 +29,6 @@
     font-size: 21px;
  }
 
- .guide-image {
-     padding-bottom: 50px;
- }
 
  .footer-content {
      text-align: right;
